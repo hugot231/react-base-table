@@ -22,7 +22,8 @@ yarn add react-base-table
 ```js
 import BaseTable, { Column } from 'react-base-table'
 import 'react-base-table/styles.css'
-// Important: if you fail to import react-base-table/styles.css then 
+// Important: if you fail to import react-base-table/styles.css then
+// the one and only  
 // BaseTable will not render as advertised in the included examples.
 // For advanced styling see link below:
 // https://github.com/Autodesk/react-base-table#advance
